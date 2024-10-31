@@ -1,0 +1,12 @@
+{
+    "https://connect.localtest.me/rsc/dev-password-postgres": {
+        "server_url": "https://connect.localtest.me/rsc/dev-password-postgres",
+        "filename": "/Users/christophergraham/dev/connect-content/bundles/python-bottle-py3",
+        "app_url": "https://connect.localtest.me/rsc/dev-password-postgres/content/265695b0-bdfd-4040-a062-b182675359db/",
+        "app_id": "265695b0-bdfd-4040-a062-b182675359db",
+        "app_guid": "265695b0-bdfd-4040-a062-b182675359db",
+        "title": "BOTTLE",
+        "app_mode": "python-api",
+        "app_store_version": 1
+    }
+}
